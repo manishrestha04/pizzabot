@@ -17,6 +17,38 @@ nlu:
     - goodevening
     - good afternoon
 
+- intent: howareyou
+  examples: |
+    - how are you
+    - how are you doing
+    - how you doin
+    - how you doing
+    - how are you today
+    - how are you feeling
+    - how are you today
+    - how are you
+    - how are you doing today
+    - how are you doing
+
+- intent: thankyou
+  examples: |
+    - thanks
+    - thank you
+    - thank you very much
+    - thanks a lot
+    - thank you so much
+    - thank you loads
+    - cheers
+    - cheers bro
+    - ok thanks
+    - perfect thank you
+    - thanks for that
+    - cheers mate
+    - thank you for your help
+    - thanks a bunch
+    - thank you very much indeed
+    - thank you a lot
+
 - intent: goodbye
   examples: |
     - cu
